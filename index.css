@@ -1,0 +1,70 @@
+body {
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-weight: bold;
+    text-align: center;    
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #DD6F97ff;
+    text-shadow: 1px 2px 2px #FBE9EDff;
+}
+
+h2 {
+    font-size: 50px;
+    color: #DD6F97ff;
+    text-shadow: 0px 2px 8px #FBE9EDff;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #FBE9EDff;
+    background: #F4ADBFff;
+    width: 250px;
+    display: block;
+    margin: 10px auto;
+    padding: 5px;
+    text-shadow: 0px 0px 4px #DD6F97ff;
+    border-radius: 10px;
+}
+
+button {
+    border: 1px solid #DD6F97ff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #FBE9EDff;
+    font-weight: none;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #DD6F97ff;
+}
+
+#save-btn {
+    background: #ED829Bff;
+}
+
+#box {
+    background-image: url("heart-bg.webp");
+    background-size: cover;
+    margin: 10px auto;
+    max-width: 450px;
+    height: 350px;
+    display: block;
+    border: 5px solid #ED829Bff;
+    border-radius: 30px;
+    
+}
+
+/* CSS HEX */
+--lavender-blush: #FBE9EDff;
+--cherry-blossom-pink: #F4ADBFff;
+--orchid-pink: #F3B6C7ff;
+--rose-pompadour: #ED829Bff;
+--cherry-blossom-pink-2: #F7B6C8ff;
+
